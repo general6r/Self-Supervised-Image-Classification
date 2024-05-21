@@ -1,2 +1,2 @@
-# Self-Sepervised-Classification
+# Self-Supervised-Classification
  DIfferent methods of image classifications
